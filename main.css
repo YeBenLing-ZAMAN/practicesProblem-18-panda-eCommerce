@@ -9,7 +9,12 @@
     border:none;
 }
 
+
+.same-height{
+    height: 82vh;
+}
 /* eita na likhe jodi class="w-100 img-fluid" */
+
 /* 
 .bannar-image img{
     width: 402px;

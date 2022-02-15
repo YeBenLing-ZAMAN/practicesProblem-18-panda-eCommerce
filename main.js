@@ -1,2 +1,2 @@
-var name = "false"
-console.log(typeof name);
+var name = "linked"
+console.log(name);
